@@ -1,6 +1,5 @@
 = Curies
 
-* http://curies.rubyforge.org
 
 == DESCRIPTION:
 
@@ -48,7 +47,7 @@ See http://www.w3.org/TR/curie/ for more information on the CURIE specification.
 
 == INSTALL:
 
-sudo gem install curies
+sudo gem install rsinger-curies
 
 == LICENSE:
 
